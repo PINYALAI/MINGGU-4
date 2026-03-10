@@ -32,3 +32,5 @@ string statusnilai(float rata)
     else
         return "Grade E";
 }
+
+int main()
