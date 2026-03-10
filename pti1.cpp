@@ -34,3 +34,8 @@ string statusnilai(float rata)
 }
 
 int main()
+
+{
+    inputnilai();
+
+    float rata = hitungrata(nilai1, nilai2, nilai3);
