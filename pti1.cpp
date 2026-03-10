@@ -39,3 +39,11 @@ int main()
     inputnilai();
 
     float rata = hitungrata(nilai1, nilai2, nilai3);
+
+     cout << "\n--- Hasil ---" << endl;
+    cout << "Nilai Rata-rata : " << rata << endl;
+    cout << "Status Nilai    : " << statusnilai(rata) << endl;
+
+    return 0;
+}
+
